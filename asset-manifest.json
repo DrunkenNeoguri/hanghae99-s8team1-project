@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hanghae99-s8team1-project/static/css/main.a6595b97.css",
+    "main.js": "/hanghae99-s8team1-project/static/js/main.050ff885.js",
+    "index.html": "/hanghae99-s8team1-project/index.html",
+    "main.a6595b97.css.map": "/hanghae99-s8team1-project/static/css/main.a6595b97.css.map",
+    "main.050ff885.js.map": "/hanghae99-s8team1-project/static/js/main.050ff885.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6595b97.css",
+    "static/js/main.050ff885.js"
+  ]
+}
