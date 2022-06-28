@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "https://drunkenneoguri.github.io/hanghae99-s8team1-project/static/css/main.5201ef3a.css",
-    "main.js": "https://drunkenneoguri.github.io/hanghae99-s8team1-project/static/js/main.b07954ac.js",
-    "index.html": "https://drunkenneoguri.github.io/hanghae99-s8team1-project/index.html",
-    "main.5201ef3a.css.map": "https://drunkenneoguri.github.io/hanghae99-s8team1-project/static/css/main.5201ef3a.css.map",
-    "main.b07954ac.js.map": "https://drunkenneoguri.github.io/hanghae99-s8team1-project/static/js/main.b07954ac.js.map"
+    "main.css": "/hanghae99-s8team1-project/static/css/main.5201ef3a.css",
+    "main.js": "/hanghae99-s8team1-project/static/js/main.aa1f6e92.js",
+    "static/js/787.4976b868.chunk.js": "/hanghae99-s8team1-project/static/js/787.4976b868.chunk.js",
+    "index.html": "/hanghae99-s8team1-project/index.html",
+    "main.5201ef3a.css.map": "/hanghae99-s8team1-project/static/css/main.5201ef3a.css.map",
+    "main.aa1f6e92.js.map": "/hanghae99-s8team1-project/static/js/main.aa1f6e92.js.map",
+    "787.4976b868.chunk.js.map": "/hanghae99-s8team1-project/static/js/787.4976b868.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5201ef3a.css",
-    "static/js/main.b07954ac.js"
+    "static/js/main.aa1f6e92.js"
   ]
 }
